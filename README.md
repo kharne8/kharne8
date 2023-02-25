@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Aliaga</h1>
-<h3 align="center">I'm Marco, I am a veteran and a software engineer. I enjoy leaning new lenguages and framworks like React Native and Next.js. I enjoy the creative process from wireframing to designing the ui and connecting the back end.</h3>
+<h3 align="center">I'm Marco, I am a veteran and a software engineer. I enjoy leaning new languages and frameworks like React Native and Next.js. I enjoy the creative process from wireframing to designing the ui and connecting the back end.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kharne8" alt="kharne8" /></a> </p>
 
